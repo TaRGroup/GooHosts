@@ -1,0 +1,1 @@
+include ':app', ':setup-wizard-lib-platform-release'
